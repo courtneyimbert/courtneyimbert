@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @courtneyimbert! I'm located in New York, USA.
+- 👋 Hi, I’m @courtneyimbert (Courtney Bell)! I'm located in New York, USA.
 - 👀 I’m interested in information security.
 - 📫 How to reach me: courtneyimbert@gmail.com
 
